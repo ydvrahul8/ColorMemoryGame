@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Color Memory</string>
+    <string name="high_score">High\nScore</string>
+    <string name="score">Score\n%1$d</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="save_your_score">Save your score...</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_name_error">Please enter your name</string>
+    <string name="name_size_error">Name should be greater than 3 character</string>
+    <string name="_1">1</string>
+    <string name="rank">Rank</string>
+    <string name="user_name">User Name</string>
+    <string name="user_score">Score</string>
+    <string name="sorry_no_data_present">Sorry no data present.</string>
+</resources>
